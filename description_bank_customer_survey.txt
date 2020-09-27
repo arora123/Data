@@ -1,0 +1,14 @@
+What is data about
+This is a bank telemarketing data.
+Got this data set from UCI machine learning repository.
+Data set can be used as classification problems.
+
+Whats inside
+Data set has information about customers and the campaigns done by bank towards term deposit.
+There is column named y in the data set which tells whether or not the customer opted term deposit.
+
+Acknowledgements
+Data credit goes to UCI. You can go ahead and visit their website for more interesting data for research and learning.
+//archive.ics.uci.edu/ml/datasets/bank+marketing#
+
+https://www.kaggle.com/sharanmk/bank-marketing-term-deposit
