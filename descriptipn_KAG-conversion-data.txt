@@ -12,7 +12,7 @@ The data used in this project is from an anonymous organisation’s social media
 
 4.) age: age of the person to whom the ad is shown.
 
-5.) gender: gender of the person to whim the add is shown
+5.) gender: gender of the person to whom the ad is shown
 
 6.) interest: a code specifying the category to which the person’s interest belongs (interests are as mentioned in the person’s Facebook public profile).
 
