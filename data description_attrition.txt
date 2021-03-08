@@ -1,0 +1,22 @@
+Data Description 'attrition.csv'
+
+'satisfaction_level' - Employee satisfaction level measured on some scale [continuous values between 0 to 1]
+
+'last_evaluation' - continuous variable
+
+'number_project' - Number of projects delivered [discrete variable 2 to 7]
+
+'average_montly_hours' - discrete variable [should be treated as continuous]
+
+'time_spend_company' - Time spent at the company
+[discrete variable 2 to 10 years]
+
+'Work_accident' - Whether the employee had a work accident [values 0 or 1]
+
+'left' - Whether the employee had left the job [values 0 or 1] [This is the Response variable]
+
+'promotion_last_5years' - Whether they have had a promotion in the last 5 years [values 0 or 1]
+
+sales' - departments [10 different departments]
+
+'salary' - salary group [low, medium & high]
