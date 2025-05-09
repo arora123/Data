@@ -1,0 +1,201 @@
+Video Title,Playlist Name,Video Id,Video Duration (Mins),Video_Publish_Date,Watch Time (Mins),Views,Impressions,Subscribers,Subscribers Gained,Subscribers Lost,Average Percentage Viewed,Likes,Comments,Shares,Dislikes
+Common Excel Mistakes,Excel,V_001,11.5,1/1/2023,89.92,1865,37801,21,23,2,27.01,286,93,20,5
+Analyzing Survey Data in Excel,Excel,V_002,9.6,1/8/2023,104.29,9191,42196,0,0,0,33.36,283,86,25,16
+Advanced Excel Formulas,Excel,V_003,8.4,1/15/2023,257.35,9202,35072,6,7,1,27.87,487,41,7,2
+Excel Charts Masterclass,Excel,V_004,14.4,1/22/2023,142.85,7994,24752,2,3,1,25.26,329,43,47,1
+Excel for Data Analysis,Excel,V_005,4.1,1/29/2023,213.92,4812,18685,3,3,0,19.12,347,13,1,19
+Cleaning Messy Excel Files,Excel,V_006,12.7,2/5/2023,276.54,1824,42401,63,66,3,25.38,375,77,5,7
+VLOOKUP vs XLOOKUP,Excel,V_007,22,2/12/2023,360.68,9847,12372,74,81,7,27.9,104,1,27,11
+Dashboard Design Principles,Excel,V_008,17,2/19/2023,67.69,3641,9996,1,1,0,27.09,175,36,28,3
+Pivot Tables in Real Life,Excel,V_009,11,2/26/2023,409.73,7919,17458,1,1,0,21.73,41,68,25,4
+Transforming Data with Power Query,Excel,V_010,8,3/5/2023,332.56,3986,32889,10,10,0,21.72,20,37,24,12
+Data Visualization in Excel,Excel,V_011,17,3/12/2023,86.79,2310,27665,39,41,2,26.93,310,40,11,14
+Excel Tips for Data Cleaning,Excel,V_012,24,3/19/2023,443.11,7088,39243,46,49,3,37.03,226,61,4,15
+Excel Budget Tracker,Excel,V_013,5,3/26/2023,464.39,3423,32653,10,10,0,18.08,298,59,33,9
+"IF, IFS, SWITCH in Excel",Excel,V_014,12,4/2/2023,77.49,5801,27657,225,232,7,29.58,111,13,47,15
+Real-Life Case Study in Excel,Excel,V_015,18,4/9/2023,174.59,4686,40952,35,36,1,23.5,434,88,36,11
+Power Query for Beginners,Excel,V_016,20,4/16/2023,412.79,9405,23180,51,54,3,32.69,401,83,14,16
+Create KPI Dashboards,Excel,V_017,18,4/23/2023,386.72,6477,32896,14,15,1,41.66,276,1,43,15
+Working with Dates in Excel,Excel,V_018,16,4/30/2023,133.03,4768,13875,112,119,7,19.47,223,69,35,11
+Excel Shortcuts You Must Know,Excel,V_019,23,5/7/2023,144.21,5248,2622,34,34,0,27.83,188,16,14,7
+Time Series in Excel,Excel,V_020,19,5/14/2023,216.71,5349,49756,6,6,0,31.16,97,88,42,19
+Google Sheets Introduction,Excel,V_021,6,5/21/2023,268.04,9935,41809,132,140,8,40.49,50,27,47,2
+Upgrade to MS 365,Excel,V_022,6,5/28/2023,328.21,4209,17725,135,143,8,29.28,410,65,22,15
+Dynamic Dashbboards,Excel,V_023,23,6/4/2023,216.01,9773,41760,20,20,0,24.98,85,34,5,12
+Excel for Academicians,Excel,V_024,21,6/11/2023,258.14,7119,16646,10,11,1,28.16,386,4,45,18
+Excel for HR professionals,Excel,V_025,24,6/18/2023,386.36,9147,18029,57,60,3,22.81,55,64,49,7
+Excel for Finance and Accounting,Excel,V_026,14,6/25/2023,66.51,9586,30402,23,23,0,24.26,169,39,43,4
+Index-Match in Excel,Excel,V_027,10,7/2/2023,163.6,3572,5263,45,46,1,25.69,472,75,42,19
+Dashboarding in Excel,Excel,V_028,19,7/9/2023,371.01,7030,31987,6,6,0,28.79,89,55,44,7
+Power Pivot made Easy,Excel,V_029,15,7/16/2023,452.84,1004,47828,50,51,1,31.37,319,35,20,11
+Latest Excel Functions,Excel,V_030,9,7/23/2023,280.25,1714,48924,0,0,0,29.43,95,44,22,0
+Excel Interview,Excel,V_031,5,7/30/2023,289.45,2031,9646,6,6,0,26.73,101,22,42,19
+Excel Shortcuts,Excel,V_032,12,8/6/2023,98.23,8076,28529,60,60,0,24.74,157,46,15,5
+Excel Tips and Tricks,Excel,V_033,16,8/13/2023,251.34,1323,12664,11,11,0,41.34,170,30,46,17
+Solver in Excel,Excel,V_034,16,8/20/2023,289.68,1428,36737,29,29,0,36.65,211,10,14,7
+Goal Seek in Excel,Excel,V_035,9,8/27/2023,159.11,5529,36796,160,163,3,27.56,433,9,24,6
+What-if Analysis in Excel,Excel,V_036,11,9/3/2023,171.16,633,25027,0,1,1,18.89,425,66,35,0
+Excel Tips for Data Cleaning,Excel,V_037,8,9/10/2023,219.78,2605,30373,259,264,5,18.2,251,13,10,15
+Pivot Tables in Real Life,Excel,V_038,10,9/17/2023,59.03,4127,37397,65,66,1,24.91,362,79,14,11
+Mastering VLOOKUP,Excel,V_039,17,9/24/2023,194.94,6816,21609,4,4,0,25.31,11,73,3,5
+Python for Beginners,Excel,V_040,24,10/1/2023,145.15,2352,36835,128,130,2,21.84,234,92,20,19
+How to Create Dashboards,Excel,V_041,19,10/8/2023,197.37,5410,39709,31,33,2,22.06,298,9,12,1
+Data Cleaning with Power Query,Excel,V_042,7,10/15/2023,103.89,4675,20250,4,7,3,18.21,242,75,21,13
+Top 5 Excel Shortcuts,Excel,V_043,12,10/22/2023,450.74,5848,22172,129,136,7,37.61,470,93,18,3
+Advanced Excel Charts,Excel,V_044,24,10/29/2023,317.12,9942,12555,40,41,1,42.8,423,0,33,0
+Grouping in Pivot Tables,Excel,V_045,20,11/5/2023,355.6,6690,22874,25,26,1,23.65,426,4,13,17
+Time Series in Excel,Excel,V_046,17,11/12/2023,405.13,1756,14081,83,85,2,22.08,86,19,3,12
+Sorting and Filtering Techniques,Excel,V_047,22,11/19/2023,274.3,3876,25063,79,81,2,17.83,125,7,47,1
+Lookup Functions Deep Dive,Excel,V_048,14,11/26/2023,89.11,6145,7819,4,5,1,18.49,163,42,45,8
+Scenario Manager in Excel,Excel,V_049,23,12/3/2023,291.7,3986,26712,35,41,6,35.49,415,75,26,1
+Excel Add-ins,Excel,V_050,21,12/10/2023,314.08,4084,25762,0,0,0,20.31,112,0,28,8
+dataanalysis toolpack,Excel,V_051,23,12/17/2023,385.45,8553,12046,0,0,0,78.37,203,56,46,0
+realstatistics in Excel,Excel,V_052,9,12/24/2023,244.25,3830,32463,4,5,1,24.12,175,63,27,10
+megastats,Excel,V_053,13,1/1/2023,107.41,3203,29769,440,456,16,25.18,368,83,34,2
+Printing Excel file,Excel,V_054,16,1/8/2023,177.7,9162,24150,63,69,6,26.11,99,27,7,19
+Excel file formats,Excel,V_055,5,1/15/2023,213.39,8620,3711,52,55,3,36.1,183,36,15,3
+Protecting Data in Excel,Excel,V_056,5,1/22/2023,340.66,7614,5853,12,12,0,30.27,131,46,41,17
+Time Series Forecasting Basics,Excel,V_057,19,1/29/2023,306.85,1853,30077,22,23,1,26.77,152,75,35,5
+Pivot Tables in Real Life,Excel,V_058,6,2/5/2023,210.24,5563,24863,76,79,3,35.35,491,36,29,2
+Power BI vs Excel Dashboards,Excel,V_059,20,2/12/2023,493.93,9049,22792,25,27,2,33.08,115,48,17,10
+Charts in Excel,Excel,V_060,12,2/19/2023,322.6,8075,41483,19,20,1,19.85,384,43,1,14
+Python Programming Interview,Python,V_061,17,2/26/2023,156.75,1167,9942,117,120,3,24.68,437,55,48,4
+Python Installation,Python,V_062,5,3/5/2023,95.8,4968,49275,1,1,0,18.33,314,27,12,19
+Anaconda Distribution,Python,V_063,20,3/12/2023,118.79,9837,49594,179,181,2,20.58,369,78,3,9
+Virtual Enviornment in Python,Python,V_064,11,3/19/2023,160.68,7319,2762,34,35,1,20.03,468,5,25,11
+Libraries in Python,Python,V_065,9,3/26/2023,122.31,4219,32987,75,78,3,25.74,326,60,24,14
+Data Visualization with Python,Python,V_066,7,4/2/2023,133.96,3245,16850,0,0,0,28.84,460,19,29,16
+Automate Reports with Pandas,Python,V_067,16,4/9/2023,178.29,7983,13112,49,51,2,28.03,132,77,10,9
+Google Colab,Python,V_068,20,4/16/2023,128.02,1039,25058,9,10,1,29.62,399,1,6,5
+Colab Tips| Insert Scratchpad/Empty File for trial work | No more untitled files | Productivity Tips,Python,V_069,23,4/23/2023,453.54,5464,46420,5,6,1,24.97,18,72,30,17
+3B Change Jupyter Startup Folder | Change default notebook folder| New to python? Watch it,Python,V_070,9,4/30/2023,86.11,5335,39890,9,9,0,21.14,271,36,43,12
+Version Control in Colab | Managing & Restoring versions | Colab Features | Python | Code Smart,Python,V_071,18,5/7/2023,286.03,4275,1481,1,2,1,23.08,82,19,9,2
+1  Start Your Python Journey with Nisha |Learn Python Smartly |Python for Analytics or Data Science,Python,V_072,9,5/14/2023,234.68,6542,48304,26,28,2,36.04,368,25,38,9
+Why and How to use Dask (Python API) for Large Datasets ?,Python,V_073,19,5/21/2023,492.07,7602,33921,26,28,2,30.34,232,28,12,13
+"4 Spyder _ Getting Started | Popular Python IDE_for R users | Install, Update versions, Shortcuts",Python,V_074,21,5/28/2023,100.42,7812,41385,46,49,3,36.2,425,0,30,5
+Exploratory Data Analysis (EDA) and data comparison made easy  by Sweetviz,Python,V_075,18,6/4/2023,229.04,5820,2524,57,58,1,26.75,50,34,6,2
+Compare Python Notebooks | Google Colab | Speed up Python Learning | Colab Tips | Diff Notebooks,Python,V_076,24,6/11/2023,486.26,6632,35888,0,0,0,27.59,379,69,48,15
+"Pandas Vs Dask, when to use which?",Python,V_077,9,6/18/2023,439.48,8391,16048,10,12,2,30.38,213,58,41,6
+2 Getting started with Google Colab |Python IDEs | Colaboratory | Why Colab?,Python,V_078,16,6/25/2023,417.68,3279,36111,34,38,4,17.64,273,68,41,19
+3  Set Permanent working directory R Studio | R Programming | R Studio Tips | Efficient Workflow,R Programming,V_079,20,7/2/2023,166.06,1424,38904,33,36,3,30.35,337,32,35,13
+11. Determinant of a Matrix | Geometry| Properties| Zero Determinant| Interpretation Linear Algebra,Linear Algebra,V_080,20,7/9/2023,126.9,2081,35008,309,319,10,30.14,187,50,19,8
+Colab _ Import CodeSnippet |Fast coding Python | Colab Features | No more remembering Python Imports,Python,V_081,11,7/16/2023,350.89,8214,1060,126,135,9,34.42,357,77,3,14
+1 Probability Terminology & Classical Probability,Statistics,V_082,8,7/23/2023,468.22,3824,10130,5,5,0,19.08,327,11,6,2
+7 Linear Transformation_3 Non-Square Matrix| 2D to 3D| 3D to 2D| Algebra| m-dim space to n-dim space,Linear Algebra,V_083,5,7/30/2023,300.54,6213,19023,19,20,1,26.39,93,19,0,1
+"Tutorial_6 For Loop in Python | Loop through sequence, string, list, dictionary |Comprehensive",Python,V_084,9,8/6/2023,307.23,7526,46080,4,4,0,16.2,327,52,43,1
+9. Matrix Multiplication |Composition of Linear Transformations | Properties of matrix mul,Linear Algebra,V_085,14,8/13/2023,175.99,755,14350,36,37,1,25.75,120,87,44,2
+Tutorial_3 Variables and Constants in Python,Python,V_086,9,8/20/2023,396.27,5304,25354,6,6,0,23.54,260,42,41,17
+Making your Python learning fast using Colab Tips | Import Scratch Cell | Rough work in notebook,Python,V_087,8,8/27/2023,134.17,2338,46186,8,10,2,31.53,392,97,46,13
+Tutorial_1 Data Types in Python |Python for Beginners | Python for Excel or R users,Python,V_088,6,9/3/2023,195.66,509,29145,130,138,8,33.55,16,88,12,19
+* & ** in Python | Unpacking with asterisk operators |Python Tutorial | string characters to list,Python,V_089,24,9/10/2023,241.45,3371,35020,7,9,2,18.55,468,49,21,17
+Dr Nisha Arora Talk |Women in Data Science Stanford_2022 | My chart is Lying | Avoiding Chart Lies,Data Storytelling,V_090,14,9/17/2023,278.42,9489,21587,2,2,0,25.16,93,28,20,9
+How to study Linear Algebra?| Mathematics for Data Science |Focus on Interpretation & Applications,Linear Algebra,V_091,23,9/24/2023,159.08,7909,42131,6,6,0,29.1,217,56,21,1
+12.  Matrix Inverse | Geometry| Properties| Invertibility| Interpretation| Transformation,Linear Algebra,V_092,5,10/1/2023,101.68,7918,10650,10,10,0,32.94,397,38,27,0
+8.  Balloon Blowing |Fun Experiment for Kids | Science Fun | Fun Learning | science experiment_ home,Science Experiments,V_093,9,10/8/2023,324.78,5624,20933,22,24,2,23.5,399,94,8,3
+7. Science experiment for kids| Squeezy Sponge | DIY | Kids Fun activity | homeschooling,Science Experiments,V_094,17,10/15/2023,179.88,1515,21581,0,0,0,21.3,323,55,25,13
+4. Matrix & Matrix Operations| 2-dim data structure| Mathematics for Data Science |Linear Algebra,Linear Algebra,V_095,8,10/22/2023,311.56,2693,24393,251,259,8,18.87,31,42,8,0
+Career in Data Science,Career Advice,V_096,20,10/29/2023,119.46,8915,24051,4,4,0,29.88,419,49,14,13
+2. Scalar & Vector| Vector Operations _interactive applet| Linear Algebra| Maths for DataScience,Linear Algebra,V_097,20,11/5/2023,266.51,7949,27212,0,0,0,24.22,392,22,9,15
+Auto Data Visualization in seconds | 2 lines of code | Auto Viz for quick charts,Python,V_098,6,11/12/2023,289.67,4658,5090,0,0,0,17.44,12,43,23,13
+From Campus to Corporate | Get Hired | Data Science Jobs,Career Advice,V_099,21,11/19/2023,73.32,4425,7960,58,60,2,25.24,136,37,41,19
+Data Visualizations _ Selecting the appropriate chart | how to select chart? | Types of chart,Data Storytelling,V_100,24,11/26/2023,201.47,7470,36772,3,5,2,26.11,306,83,7,2
+Why do you need to learn Data Visualization & Story Telling?,Data Storytelling,V_101,16,12/3/2023,110.49,7438,22520,232,240,8,19.04,197,22,23,2
+9. DIY Cloud Making | Fun Experiment for Kids | Science Fun | Fun Learning | Toddler Activity,Science Experiments,V_102,22,12/10/2023,78.52,5284,37408,273,284,11,21.96,371,44,15,8
+EDA_2 Understanding Relationship between variables | Exploratory Data Analysis,Statistics,V_103,7,12/17/2023,495.48,4500,29470,22,22,0,23.95,23,51,48,5
+Colab Insert Scratch Cell For Trial Works,Python,V_104,5,12/24/2023,195.06,2133,21491,47,47,0,22.43,468,79,25,12
+"How to Start Data Science Journey | Learn Smartly | Got Less Time, Too Much to Learn | Career Advice",Career Advice,V_105,5,1/1/2023,414.44,7766,2341,55,58,3,24.17,475,49,26,1
+Storytelling with Data | Data Visualization | Communicate your analysis effectively,Data Storytelling,V_106,23,1/8/2023,164.59,9202,45623,0,1,1,33.65,21,7,36,7
+Tutorial 2 Operators in Python |Python for Beginners | Python for Excel or R users,Python,V_107,15,1/15/2023,356.68,884,25791,7,7,0,27.81,96,84,3,1
+3A python and i pyhton files Jupyter and Jupyter Lab,Python,V_108,9,1/22/2023,392.1,904,1338,18,19,1,20.02,21,0,49,3
+1 Download_install python|Anaconda |Python for Analytics/DS| Why Anaconda Distribution? |Python IDEs,Python,V_109,16,1/29/2023,318.04,8675,6895,11,11,0,28.24,406,7,23,14
+Course Preview _ Python Pandas for Analytics/Data Science _Level 1 | Udemy Online Course,Python,V_110,7,2/5/2023,262.21,2500,13254,2,2,0,22.22,34,28,18,3
+2 B Probability Addition Rule Generalization,Statistics,V_111,5,2/12/2023,235.33,6489,12344,26,27,1,32.82,310,95,35,12
+5.  DIY Fountain1 |Fun Experiment_ Kids | Science Fun | Fun Learning | Toddler Activity | Parenting,Science Experiments,V_112,5,2/19/2023,206.99,1960,2750,1,1,0,11.42,252,4,38,11
+5 C Bayes Theorem Use Cases,Statistics,V_113,12,2/26/2023,468.29,7690,3421,55,58,3,36.02,131,85,9,12
+6. Linear Transformation_ Part 2 Mathematics| Linear Algebra| Mathematics for Data Science,Linear Algebra,V_114,14,3/5/2023,423.78,7640,40887,14,14,0,38.44,156,46,24,13
+8 Rank & Column Space | Matrix | Linear Transformation | Linear Algebra,Linear Algebra,V_115,15,3/12/2023,484.26,4136,6319,74,82,8,23.65,64,33,17,19
+Excel Index-Match Function | Look-Up Functions |Excel for Analytics | Result Analysis,Excel,V_116,16,3/19/2023,105.93,5309,16896,2,2,0,17.84,247,64,18,17
+Tutorial_8 while loop in Python | Python Programming Basics | Python for non-programmers,Python,V_117,17,3/26/2023,378.89,4678,12918,0,2,2,23.18,365,54,35,5
+Tutorial_5 Control Flow 1 if else in python,Python,V_118,16,4/2/2023,472.25,7745,26064,79,81,2,24.47,182,89,9,10
+Tutorial _15 |reduce function in python | functional programming |Programming Paradigm,Python,V_119,18,4/9/2023,131.55,7100,47617,62,62,0,22.69,401,42,32,1
+Tutorial _14| map function in python | functional programming |Transformation of list/iterables of,Python,V_120,6,4/16/2023,79.92,6497,28935,309,318,9,18.78,230,73,49,18
+Tutorial_10 Functions_part2 | Print Vs Return |Programming Basics_ Python| Python for Beginners,Python,V_121,23,4/23/2023,383.5,2548,38641,43,44,1,26.11,128,29,4,18
+Tutorial_4 Typecasting in Python | Python for Beginners | Python for R users,Python,V_122,22,4/30/2023,308.51,5280,30711,231,240,9,19.58,318,81,46,4
+Tutorial_12| Functions_Part3|  Positional & Keyword Arguments | *args & **kwargs in Python,Python,V_123,7,5/7/2023,428.82,1216,5806,26,27,1,21.1,192,16,48,18
+What to expect from the course  'Python Pandas for Analytics/Data Science _Level 1',Python,V_124,21,5/14/2023,112.9,8439,42360,31,35,4,32.42,297,25,34,1
+Excel for Academicians | Start your journey to Excel | My Talk | Excel Webinar | Learn Excel,Excel,V_125,12,5/21/2023,407.87,6065,13182,28,29,1,29.82,316,7,43,9
+10. Determinant of a Matrix | Computation |Formula| Applet| Linear Algebra,Linear Algebra,V_126,14,5/28/2023,140.73,5044,23297,27,29,2,22.68,309,46,33,1
+Beautify your code with one click!,Python,V_127,6,6/4/2023,123.65,5476,20541,12,13,1,26.11,91,75,32,10
+3 B Probability Multiplication Rule,Statistics,V_128,23,6/11/2023,123.92,3919,29921,12,12,0,31.45,463,90,20,17
+5 Linear Transformation_1 Applications| Linear Algebra| Learn while you Play| InterpretationUseCases,Linear Algebra,V_129,13,6/18/2023,416.56,7739,17774,3,4,1,21.77,411,71,16,14
+Tutorial_13| Functions Part4|  Lambda function| Anonymous function in Python| Function with no Name,Python,V_130,11,6/25/2023,349.34,749,45813,22,23,1,22.03,220,88,21,8
+6. Story Telling for kids along with science fundas _ Thirsy Crow | how to teach kids while playing,Science Experiments,V_131,8,7/2/2023,285.38,9365,38198,45,45,0,25.89,159,45,47,18
+4.  Float & Sink| learning science with games | toddler fun activity | Engaging kids at home,Science Experiments,V_132,22,7/9/2023,211.47,1270,9820,3,3,0,20.34,46,67,36,8
+3 Linear Combination of vectors| Span| Linear Dependence| Basis| Linear Algebra| Playing with an App,Linear Algebra,V_133,17,7/16/2023,444.74,4863,25070,25,26,1,27.1,361,32,14,2
+Excel Tips Fill Series and freeze pan,Excel,V_134,15,7/23/2023,226.6,1577,5232,4,7,3,16.34,321,0,34,8
+Python/Pandas for Analytics & Data Science _Level 1 | Course Organization | Online Course,Python,V_135,8,7/30/2023,417.47,8927,12122,17,18,1,33.67,370,18,27,13
+Tutorial_9 Writing Simple Functions in Python  |Functions part1 |Programming basics |For beginners,Python,V_136,8,8/6/2023,247.61,9080,16023,56,62,6,23.36,68,30,6,18
+Quick EDA with just one line of code using Pandas Profiling,Python,V_137,14,8/13/2023,219.62,8401,9007,12,12,0,24.64,140,79,31,6
+Excel Tips Custom List,Excel,V_138,9,8/20/2023,258.21,5358,18905,18,19,1,25.95,421,13,10,15
+2 A. Probability_Addition Rule,Statistics,V_139,13,8/27/2023,185.62,7044,42786,0,0,0,17.91,211,52,9,15
+Python/Pandas for Analytics & Data Science _Level 1 | Course Preview | Online Course,Python,V_140,7,9/3/2023,386.42,5219,30398,29,30,1,21.36,252,47,8,0
+Tutorial_15| Filter function in python | Functional Programming | Filter elements based on condition,Python,V_141,21,9/10/2023,276.22,3314,35268,62,64,2,19.86,44,68,13,3
+3 A Probability Independent and Dependent Events,Statistics,V_142,7,9/17/2023,154.5,3874,7737,-1,0,1,27.13,454,89,12,3
+What NOT to expect from the course 'Python Pandas for Analytics/Data Science'_ Level 1,Python,V_143,20,9/24/2023,454.81,1752,37062,85,86,1,36.42,102,61,24,6
+2.  ColorMixing | primary secondary colors |  kids experiment at home |Parenting | Keeping kids busy,Science Experiments,V_144,8,10/1/2023,222.75,7496,26510,136,137,1,31.39,447,91,1,7
+2 Set Working Directory R Studio,R Programming,V_145,22,10/8/2023,294.6,5173,20426,83,84,1,19.89,456,65,34,16
+"Tutorial_7 For Loop in Python Part2 | Break, Continue & Pass statement | More Control Structure",Python,V_146,21,10/15/2023,457.91,5030,38265,127,130,3,23.67,216,63,6,4
+Tidyverse for data manipulation,R Programming,V_147,11,10/22/2023,330.91,7381,18850,44,47,3,27.99,362,69,20,6
+Beautiful Charts using ggplot2,R Programming,V_148,9,10/29/2023,102.6,7449,1614,2,2,0,26.17,400,62,17,19
+Statistics for Data Science,Statistics,V_149,16,11/5/2023,472.92,6741,22776,36,36,0,26.01,341,72,2,19
+R Studio Features,R Programming,V_150,21,11/12/2023,332.47,8517,25077,3,3,0,20.01,314,32,41,3
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
